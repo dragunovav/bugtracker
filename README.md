@@ -1,0 +1,2 @@
+# bugtracker
+OpenVidu bug tracker
